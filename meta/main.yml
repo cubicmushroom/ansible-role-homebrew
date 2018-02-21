@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - elliotweiser.osx-command-line-tools
+  - src: https://github.com/cubicmushroom/ansible-role-osx-command-line-tools
 
 galaxy_info:
   author: geerlingguy
